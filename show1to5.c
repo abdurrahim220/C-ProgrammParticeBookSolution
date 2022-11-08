@@ -2,10 +2,10 @@
 int main()
 {
     int i;
-    while (i<=5)
+    while (i<=100)
     {
         /* code */
-        printf("%d ",i);
+        printf("%d\t",i);
         i++;
     }
     
